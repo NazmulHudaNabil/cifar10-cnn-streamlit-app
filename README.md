@@ -26,9 +26,7 @@
 
 | Home Page | Prediction Page |
 |:---------:|:---------------:|
-| ![Home](https://via.placeholder.com/400x250/0E1117/FF6B6B?text=Home+Page) | ![Prediction](https://via.placeholder.com/400x250/0E1117/45B7D1?text=Prediction+Page) |
-
-> 💡 *Replace the placeholder images above with actual screenshots of your app.*
+| ![Home Page](screenshots/home_page.png) | ![Prediction Page](screenshots/prediction_page.png) |
 
 ---
 
@@ -147,6 +145,9 @@ cifar10-cnn-streamlit-app/
 ├── run.sh                  # Local launch script
 ├── .streamlit/
 │   └── config.toml         # Streamlit dark theme config
+├── screenshots/
+│   ├── home_page.png       # App home page screenshot
+│   └── prediction_page.png # Prediction page screenshot
 └── README.md
 ```
 
